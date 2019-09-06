@@ -6,5 +6,3 @@ Learn about special topics in physical chemistry.
 Learn about the applications of computational chemistry in a "wet lab".
 # Goal 3
 Apply computational chemistry in a "wet lab".
-# No more goals
-fuck yeah
